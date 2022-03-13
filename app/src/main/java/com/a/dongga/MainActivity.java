@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
         mAdView.loadAd(adRequest);
 
         //전면
-        MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713");
+        MobileAds.initialize(this, "ca-app-pub-1107226096880396~3931935170");
         mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId("ca-app-pub-1107226096880396/4430498744");
         mInterstitialAd.loadAd(new AdRequest.Builder().build());

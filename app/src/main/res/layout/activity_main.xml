@@ -19,11 +19,11 @@
 
         <com.google.android.gms.ads.AdView
             android:id="@+id/adView"
-            android:layout_width="410dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="38dp"
+            android:layout_marginBottom="36dp"
             app:adSize="SMART_BANNER"
             app:adUnitId="ca-app-pub-1107226096880396/7360044299"></com.google.android.gms.ads.AdView>
 

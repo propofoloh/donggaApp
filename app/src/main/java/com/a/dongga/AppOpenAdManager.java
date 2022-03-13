@@ -87,7 +87,7 @@ public class AppOpenAdManager extends AppOpenAd.AppOpenAdLoadCallback
         }
     }
 
-    public static final String AD_UNIT_ID = "ca-app-pub-3940256099942544/1033173712";
+    public static final String AD_UNIT_ID = "ca-app-pub-1107226096880396/2150291081";
 
     public static final long MAX_AD_EXPIRY_DURATION = 3600000 * 4;
 
